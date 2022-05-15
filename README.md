@@ -6,5 +6,5 @@
 
 | Website | Money per blog | Niche |
 | ----------- | ----------- | ---- |
-| 100ms Technical Writer Program | $200 to $500 | Technical Blogs |
+| [100ms Technical Writer Program](https://www.100ms.live/technical-writer-program) | $200 to $500 | Technical Blogs |
 | Paragraph   | Text        |      |
